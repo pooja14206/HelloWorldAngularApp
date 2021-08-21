@@ -1,4 +1,6 @@
-div{
-    text-align: center;
-    font-size: x-large;
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
